@@ -2,6 +2,18 @@
   "movies": [
     {
       "id": 1,
+      "title": "Los Ángeles de Mario",
+      "director": "Z Índex",
+      "posterUrl": [
+        "https://i.ibb.co/fk8gqZ1/angeles-big.webp",
+        "https://i.ibb.co/47gdj6F/angeles-small.webp"
+      ],
+      "synopsis": "A team of 3 highly intellectual individuals facing the labor system through the experimental guidance of their cynical yet charismatic professor.",
+      "runtime": "336h",
+      "genre": "Adventure, Comedy, Drama, Love, Sexuality, Obscene Language"
+    },
+    {
+      "id": 2,
       "title": "Barbie",
       "director": "Greta Gerwig",
       "posterUrl": [
@@ -11,18 +23,6 @@
       "synopsis": "A doll living in 'Barbieland' is expelled for not being perfect enough and sets off on an adventure in the real world. A Live-action feature film based on the popular line of Barbie toys.",
       "runtime": "1h 54min",
       "genre": "Adventure, Comedy"
-    },
-    {
-      "id": 2,
-      "title": "Inception",
-      "director": "Christopher Nolan",
-      "posterUrl": [
-        "https://i.ibb.co/F0NxYqJ/inception-big.webp",
-        "https://i.ibb.co/h7r4vq3/inception-small.webp"
-      ],
-      "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
-      "runtime": "2h 28min",
-      "genre": "Action, Adventure, Sci-Fi"
     },
     {
       "id": 3,
@@ -239,6 +239,18 @@
       "synopsis": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
       "runtime": "3h 9min",
       "genre": "Crime, Drama, Fantasy"
+    },
+    {
+      "id": 21,
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "posterUrl": [
+        "https://i.ibb.co/F0NxYqJ/inception-big.webp",
+        "https://i.ibb.co/h7r4vq3/inception-small.webp"
+      ],
+      "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "runtime": "2h 28min",
+      "genre": "Action, Adventure, Sci-Fi"
     }
   ],
   "sessions": [
@@ -360,6 +372,12 @@
       "id": 20,
       "movieId": 20,
       "dates": ["2024-01-04T18:00:00", "2024-01-05T18:45:00"],
+      "price": 9
+    },
+    {
+      "id": 21,
+      "movieId": 21,
+      "dates": ["2024-01-04T18:45:00", "2024-01-05T18:45:00"],
       "price": 9
     }
   ],
@@ -687,6 +705,18 @@
       "movieId": 20,
       "sessionId": 2,
       "reserved": []
+    },
+    {
+      "id": 41,
+      "movieId": 21,
+      "sessionId": 1,
+      "reserved": []
+    },
+    {
+      "id": 42,
+      "movieId": 21,
+      "sessionId": 2,
+      "reserved": ["r1s4", "r2s5", "r3s1", "r4s3"]
     }
   ],
   "tickets": [
