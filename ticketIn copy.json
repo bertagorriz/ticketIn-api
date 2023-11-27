@@ -245,121 +245,241 @@
     {
       "id": 1,
       "movieId": 1,
-      "dates": ["2023-11-15T18:30:00", "2023-11-16T18:00:00"],
+      "dates": "2023-11-15T18:30:00",
       "price": 9
     },
     {
       "id": 2,
-      "movieId": 2,
-      "dates": ["2023-11-17T19:00:00", "2023-11-18T20:00:00"],
+      "movieId": 1,
+      "dates": "2023-11-16T18:00:00",
       "price": 9
     },
     {
       "id": 3,
-      "movieId": 3,
-      "dates": ["2023-11-20T17:45:00", "2023-11-21T16:30:00"],
+      "movieId": 2,
+      "dates": "2023-11-17T19:00:00",
       "price": 9
     },
     {
       "id": 4,
-      "movieId": 4,
-      "dates": ["2023-11-22T14:00:00", "2023-11-23T15:15:00"],
+      "movieId": 2,
+      "dates": "2023-11-18T20:00:00",
       "price": 9
     },
     {
       "id": 5,
-      "movieId": 5,
-      "dates": ["2023-11-25T18:45:00", "2023-11-26T18:30:00"],
+      "movieId": 3,
+      "dates": "2023-11-20T17:45:00",
       "price": 9
     },
     {
       "id": 6,
-      "movieId": 6,
-      "dates": ["2023-11-28T16:00:00", "2023-11-29T15:30:00"],
+      "movieId": 3,
+      "dates": "2023-11-21T16:30:00",
       "price": 9
     },
     {
       "id": 7,
-      "movieId": 7,
-      "dates": ["2023-11-30T19:15:00", "2023-12-01T20:00:00"],
+      "movieId": 4,
+      "dates": "2023-11-22T14:00:00",
       "price": 9
     },
     {
       "id": 8,
-      "movieId": 8,
-      "dates": ["2023-12-03T17:30:00", "2023-12-04T16:45:00"],
+      "movieId": 4,
+      "dates": "2023-11-23T15:15:00",
       "price": 9
     },
     {
       "id": 9,
-      "movieId": 9,
-      "dates": ["2023-12-05T14:45:00", "2023-12-06T15:30:00"],
+      "movieId": 5,
+      "dates": "2023-11-25T18:45:00",
       "price": 9
     },
     {
       "id": 10,
-      "movieId": 10,
-      "dates": ["2023-12-08T18:00:00", "2023-12-09T18:45:00"],
+      "movieId": 5,
+      "dates": "2023-11-26T18:30:00",
       "price": 9
     },
     {
       "id": 11,
-      "movieId": 11,
-      "dates": ["2023-12-10T16:30:00", "2023-12-11T16:00:00"],
+      "movieId": 6,
+      "dates": "2023-11-28T16:00:00",
       "price": 9
     },
     {
       "id": 12,
-      "movieId": 12,
-      "dates": ["2023-12-13T19:00:00", "2023-12-14T20:15:00"],
+      "movieId": 6,
+      "dates": "2023-11-29T15:30:00",
       "price": 9
     },
     {
       "id": 13,
-      "movieId": 13,
-      "dates": ["2023-12-16T17:45:00", "2023-12-17T16:30:00"],
+      "movieId": 7,
+      "dates": "2023-11-30T19:15:00",
       "price": 9
     },
     {
       "id": 14,
-      "movieId": 14,
-      "dates": ["2023-12-18T14:00:00", "2023-12-19T15:15:00"],
+      "movieId": 7,
+      "dates": "2023-12-01T20:00:00",
       "price": 9
     },
     {
       "id": 15,
-      "movieId": 15,
-      "dates": ["2023-12-21T18:45:00", "2023-12-22T18:30:00"],
+      "movieId": 8,
+      "dates": "2023-12-03T17:30:00",
       "price": 9
     },
     {
       "id": 16,
-      "movieId": 16,
-      "dates": ["2023-12-23T16:00:00", "2023-12-24T15:30:00"],
+      "movieId": 8,
+      "dates": "2023-12-04T16:45:00",
       "price": 9
     },
     {
       "id": 17,
-      "movieId": 17,
-      "dates": ["2023-12-26T19:15:00", "2023-12-27T20:00:00"],
+      "movieId": 9,
+      "dates": "2023-12-05T14:45:00",
       "price": 9
     },
     {
       "id": 18,
-      "movieId": 18,
-      "dates": ["2023-12-29T17:30:00", "2023-12-30T16:45:00"],
+      "movieId": 9,
+      "dates": "2023-12-06T15:30:00",
       "price": 9
     },
     {
       "id": 19,
-      "movieId": 19,
-      "dates": ["2024-01-01T14:45:00", "2024-01-02T15:30:00"],
+      "movieId": 10,
+      "dates": "2023-12-08T18:00:00",
       "price": 9
     },
     {
       "id": 20,
+      "movieId": 10,
+      "dates": "2023-12-09T18:45:00",
+      "price": 9
+    },
+    {
+      "id": 21,
+      "movieId": 11,
+      "dates": "2023-12-10T16:30:00",
+      "price": 9
+    },
+    {
+      "id": 22,
+      "movieId": 11,
+      "dates": "2023-12-11T16:00:00",
+      "price": 9
+    },
+    {
+      "id": 23,
+      "movieId": 12,
+      "dates": "2023-12-13T19:00:00",
+      "price": 9
+    },
+    {
+      "id": 24,
+      "movieId": 12,
+      "dates": "2023-12-14T20:15:00",
+      "price": 9
+    },
+    {
+      "id": 25,
+      "movieId": 13,
+      "dates": "2023-12-16T17:45:00",
+      "price": 9
+    },
+    {
+      "id": 26,
+      "movieId": 13,
+      "dates": "2023-12-17T16:30:00",
+      "price": 9
+    },
+    {
+      "id": 27,
+      "movieId": 14,
+      "dates": "2023-12-18T14:00:00",
+      "price": 9
+    },
+    {
+      "id": 28,
+      "movieId": 14,
+      "dates": "2023-12-19T15:15:00",
+      "price": 9
+    },
+    {
+      "id": 29,
+      "movieId": 15,
+      "dates": "2023-12-21T18:45:00",
+      "price": 9
+    },
+    {
+      "id": 30,
+      "movieId": 15,
+      "dates": "2023-12-22T18:30:00",
+      "price": 9
+    },
+    {
+      "id": 31,
+      "movieId": 16,
+      "dates": "2023-12-23T16:00:00",
+      "price": 9
+    },
+    {
+      "id": 32,
+      "movieId": 16,
+      "dates": "2023-12-24T15:30:00",
+      "price": 9
+    },
+    {
+      "id": 33,
+      "movieId": 17,
+      "dates": "2023-12-26T19:15:00",
+      "price": 9
+    },
+    {
+      "id": 34,
+      "movieId": 17,
+      "dates": "2023-12-27T20:00:00",
+      "price": 9
+    },
+    {
+      "id": 35,
+      "movieId": 18,
+      "dates": "2023-12-29T17:30:00",
+      "price": 9
+    },
+    {
+      "id": 36,
+      "movieId": 18,
+      "dates": "2023-12-30T16:45:00",
+      "price": 9
+    },
+    {
+      "id": 37,
+      "movieId": 19,
+      "dates": "2024-01-01T14:45:00",
+      "price": 9
+    },
+    {
+      "id": 38,
+      "movieId": 19,
+      "dates": "2024-01-02T15:30:00",
+      "price": 9
+    },
+    {
+      "id": 39,
       "movieId": 20,
-      "dates": ["2024-01-04T18:00:00", "2024-01-05T18:45:00"],
+      "dates": "2024-01-04T18:00:00",
+      "price": 9
+    },
+    {
+      "id": 40,
+      "movieId": 20,
+      "dates": "2024-01-05T18:45:00",
       "price": 9
     }
   ],
@@ -379,13 +499,13 @@
     {
       "id": 3,
       "movieId": 2,
-      "sessionId": 1,
+      "sessionId": 3,
       "reserved": ["r1s5", "r2s3", "r3s1", "r4s4"]
     },
     {
       "id": 4,
       "movieId": 2,
-      "sessionId": 2,
+      "sessionId": 4,
       "reserved": [
         "r1s1",
         "r1s2",
@@ -412,37 +532,37 @@
     {
       "id": 5,
       "movieId": 3,
-      "sessionId": 1,
+      "sessionId": 5,
       "reserved": ["r1s4", "r2s5", "r3s3", "r4s1"]
     },
     {
       "id": 6,
       "movieId": 3,
-      "sessionId": 2,
+      "sessionId": 6,
       "reserved": ["r1s3", "r2s2", "r3s1", "r4s5"]
     },
     {
       "id": 7,
       "movieId": 4,
-      "sessionId": 1,
+      "sessionId": 7,
       "reserved": ["r1s1", "r2s3", "r3s5"]
     },
     {
       "id": 8,
       "movieId": 4,
-      "sessionId": 2,
+      "sessionId": 8,
       "reserved": ["r1s4", "r2s1", "r3s3", "r4s2"]
     },
     {
       "id": 9,
       "movieId": 5,
-      "sessionId": 1,
+      "sessionId": 9,
       "reserved": ["r2s4", "r3s2", "r4s3"]
     },
     {
       "id": 10,
       "movieId": 5,
-      "sessionId": 2,
+      "sessionId": 10,
       "reserved": [
         "r1s1",
         "r1s2",
@@ -469,85 +589,85 @@
     {
       "id": 11,
       "movieId": 6,
-      "sessionId": 1,
+      "sessionId": 11,
       "reserved": []
     },
     {
       "id": 12,
       "movieId": 6,
-      "sessionId": 2,
+      "sessionId": 12,
       "reserved": ["r1s1", "r4s5"]
     },
     {
       "id": 13,
       "movieId": 7,
-      "sessionId": 1,
+      "sessionId": 13,
       "reserved": ["r1s3", "r2s1", "r3s5"]
     },
     {
       "id": 14,
       "movieId": 7,
-      "sessionId": 2,
+      "sessionId": 14,
       "reserved": ["r1s4", "r4s1"]
     },
     {
       "id": 15,
       "movieId": 8,
-      "sessionId": 1,
+      "sessionId": 15,
       "reserved": ["r1s5", "r2s4", "r3s3", "r4s2"]
     },
     {
       "id": 16,
       "movieId": 8,
-      "sessionId": 2,
+      "sessionId": 16,
       "reserved": []
     },
     {
       "id": 17,
       "movieId": 9,
-      "sessionId": 1,
+      "sessionId": 17,
       "reserved": ["r1s3", "r2s2", "r3s5", "r4s4"]
     },
     {
       "id": 18,
       "movieId": 9,
-      "sessionId": 2,
+      "sessionId": 18,
       "reserved": ["r1s1", "r2s3", "r3s2"]
     },
     {
       "id": 19,
       "movieId": 10,
-      "sessionId": 1,
+      "sessionId": 19,
       "reserved": ["r1s4", "r2s5", "r3s1", "r4s3"]
     },
     {
       "id": 20,
       "movieId": 10,
-      "sessionId": 2,
+      "sessionId": 20,
       "reserved": []
     },
     {
       "id": 21,
       "movieId": 11,
-      "sessionId": 1,
+      "sessionId": 21,
       "reserved": ["r1s3", "r1s4", "r2s2", "r4s5"]
     },
     {
       "id": 22,
       "movieId": 11,
-      "sessionId": 2,
+      "sessionId": 22,
       "reserved": ["r1s1", "r3s5", "r4s2"]
     },
     {
       "id": 23,
       "movieId": 12,
-      "sessionId": 1,
+      "sessionId": 23,
       "reserved": ["r1s5", "r2s3", "r3s1", "r4s4"]
     },
     {
       "id": 24,
       "movieId": 12,
-      "sessionId": 2,
+      "sessionId": 24,
       "reserved": [
         "r1s1",
         "r1s2",
@@ -574,37 +694,37 @@
     {
       "id": 25,
       "movieId": 13,
-      "sessionId": 1,
+      "sessionId": 25,
       "reserved": ["r1s4", "r2s5", "r3s3", "r4s1"]
     },
     {
       "id": 26,
       "movieId": 13,
-      "sessionId": 2,
+      "sessionId": 26,
       "reserved": ["r1s3", "r2s2", "r3s1", "r4s5"]
     },
     {
       "id": 27,
       "movieId": 14,
-      "sessionId": 1,
+      "sessionId": 27,
       "reserved": ["r1s1", "r2s3", "r3s5"]
     },
     {
       "id": 28,
       "movieId": 14,
-      "sessionId": 2,
+      "sessionId": 28,
       "reserved": ["r1s4", "r2s1", "r3s3", "r4s2"]
     },
     {
       "id": 29,
       "movieId": 15,
-      "sessionId": 1,
+      "sessionId": 29,
       "reserved": ["r2s4", "r3s2", "r4s3"]
     },
     {
       "id": 30,
       "movieId": 15,
-      "sessionId": 2,
+      "sessionId": 30,
       "reserved": [
         "r1s1",
         "r1s2",
@@ -631,61 +751,61 @@
     {
       "id": 31,
       "movieId": 16,
-      "sessionId": 1,
+      "sessionId": 31,
       "reserved": []
     },
     {
       "id": 32,
       "movieId": 16,
-      "sessionId": 2,
+      "sessionId": 32,
       "reserved": ["r1s1", "r4s5"]
     },
     {
       "id": 33,
       "movieId": 17,
-      "sessionId": 1,
+      "sessionId": 33,
       "reserved": ["r1s3", "r2s1", "r3s5"]
     },
     {
       "id": 34,
       "movieId": 17,
-      "sessionId": 2,
+      "sessionId": 34,
       "reserved": ["r1s4", "r4s1"]
     },
     {
       "id": 35,
       "movieId": 18,
-      "sessionId": 1,
+      "sessionId": 35,
       "reserved": ["r1s5", "r2s4", "r3s3", "r4s2"]
     },
     {
       "id": 36,
       "movieId": 18,
-      "sessionId": 2,
+      "sessionId": 36,
       "reserved": []
     },
     {
       "id": 37,
       "movieId": 19,
-      "sessionId": 1,
+      "sessionId": 37,
       "reserved": ["r1s3", "r2s2", "r3s5", "r4s4"]
     },
     {
       "id": 38,
       "movieId": 19,
-      "sessionId": 2,
+      "sessionId": 38,
       "reserved": ["r1s1", "r2s3", "r3s2"]
     },
     {
       "id": 39,
       "movieId": 20,
-      "sessionId": 1,
+      "sessionId": 39,
       "reserved": ["r1s4", "r2s5", "r3s1", "r4s3"]
     },
     {
       "id": 40,
       "movieId": 20,
-      "sessionId": 2,
+      "sessionId": 40,
       "reserved": []
     }
   ],
