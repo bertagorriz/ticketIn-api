@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "Los Ángeles de Mario",
+      "slug": "los-angeles-de-mario",
       "director": "Z Índex",
       "posterUrl": [
         "https://i.ibb.co/fk8gqZ1/angeles-big.webp",
@@ -15,6 +16,7 @@
     {
       "id": 2,
       "title": "Barbie",
+      "slug": "barbie",
       "director": "Greta Gerwig",
       "posterUrl": [
         "https://i.ibb.co/FDRMDLQ/barbie-big.webp",
@@ -27,6 +29,7 @@
     {
       "id": 3,
       "title": "The Shawshank Redemption",
+      "slug": "the-shawshank-redemption",
       "director": "Frank Darabont",
       "posterUrl": [
         "https://i.ibb.co/4SBX4RM/shawashank-big.webp",
@@ -39,6 +42,7 @@
     {
       "id": 4,
       "title": "The Matrix",
+      "slug": "the-matrix",
       "director": "The Wachowskis",
       "posterUrl": [
         "https://i.ibb.co/KD3rzL8/matrix-big.webp",
@@ -51,6 +55,7 @@
     {
       "id": 5,
       "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "slug": "the-lord-of-the-rings:-the-fellowship-of-the-ring",
       "director": "Peter Jackson",
       "posterUrl": [
         "https://i.ibb.co/4VxdJX9/lord-big.webp",
@@ -63,6 +68,7 @@
     {
       "id": 6,
       "title": "Forrest Gump",
+      "slug": "forrest-gump",
       "director": "Robert Zemeckis",
       "posterUrl": [
         "https://i.ibb.co/N2ZSKKJ/forrest-big.webp",
@@ -75,6 +81,7 @@
     {
       "id": 7,
       "title": "The Dark Knight",
+      "slug": "the-dark-knight",
       "director": "Christopher Nolan",
       "posterUrl": [
         "https://i.ibb.co/YkFtGNk/dark-big.webp",
@@ -87,6 +94,7 @@
     {
       "id": 8,
       "title": "Pulp Fiction",
+      "slug": "pulp-fiction",
       "director": "Quentin Tarantino",
       "posterUrl": [
         "https://i.ibb.co/HNm0sj5/pulp-big.webp",
@@ -99,6 +107,7 @@
     {
       "id": 9,
       "title": "Inglourious Basterds",
+      "slug": "inglourious-basterds",
       "director": "Quentin Tarantino",
       "posterUrl": [
         "https://i.ibb.co/C2br5XJ/inglourious-big.webp",
@@ -111,6 +120,7 @@
     {
       "id": 10,
       "title": "The Godfather",
+      "slug": "the-godfather",
       "director": "Francis Ford Coppola",
       "posterUrl": [
         "https://i.ibb.co/V2W7L95/godfather-big.webp",
@@ -123,6 +133,7 @@
     {
       "id": 11,
       "title": "The Social Network",
+      "slug": "the-social-network",
       "director": "David Fincher",
       "posterUrl": [
         "https://i.ibb.co/8M3cGkM/social-big.webp",
@@ -135,6 +146,7 @@
     {
       "id": 12,
       "title": "The Truman Show",
+      "slug": "the-truman-show",
       "director": "Peter Weir",
       "posterUrl": [
         "https://i.ibb.co/nCKZYks/truman-big.webp",
@@ -147,6 +159,7 @@
     {
       "id": 13,
       "title": "Oppenheimer",
+      "slug": "oppenheimer",
       "director": "Christopher Nolan",
       "posterUrl": [
         "https://i.ibb.co/85bN1vF/oppenheimer-big.webp",
@@ -159,6 +172,7 @@
     {
       "id": 14,
       "title": "The Godfather: Part II",
+      "slug": "the-godfather:-part-ii",
       "director": "Francis Ford Coppola",
       "posterUrl": [
         "https://i.ibb.co/7vXb6Z3/godfahter2-big.webp",
@@ -171,6 +185,7 @@
     {
       "id": 15,
       "title": "The Dark Knight Rises",
+      "slug": "the-dark-knight-rises",
       "director": "Christopher Nolan",
       "posterUrl": [
         "https://i.ibb.co/c2FRZgT/dark2-big.webp",
@@ -183,6 +198,7 @@
     {
       "id": 16,
       "title": "Fight Club",
+      "slug": "fight-club",
       "director": "David Fincher",
       "posterUrl": [
         "https://i.ibb.co/Q6pTWVL/fight-big.webp",
@@ -195,6 +211,7 @@
     {
       "id": 17,
       "title": "Goodfellas",
+      "slug": "goodfellas",
       "director": "Martin Scorsese",
       "posterUrl": [
         "https://i.ibb.co/n8jqRYd/goodfellas-big.webp",
@@ -207,6 +224,7 @@
     {
       "id": 18,
       "title": "Interstellar",
+      "slug": "interstellar",
       "director": "Christopher Nolan",
       "posterUrl": [
         "https://i.ibb.co/1rLWmSj/interstellar-big.webp",
@@ -219,6 +237,7 @@
     {
       "id": 19,
       "title": "The Silence of the Lambs",
+      "slug": "the-silence-of-the-lambs",
       "director": "Jonathan Demme",
       "posterUrl": [
         "https://i.ibb.co/2WbKXnf/silence-big.webp",
@@ -231,6 +250,7 @@
     {
       "id": 20,
       "title": "The Green Mile",
+      "slug": "the-green-mile",
       "director": "Frank Darabont",
       "posterUrl": [
         "https://i.ibb.co/jw03Q6G/green-big.webp",
@@ -243,6 +263,7 @@
     {
       "id": 21,
       "title": "Inception",
+      "slug": "inception",
       "director": "Christopher Nolan",
       "posterUrl": [
         "https://i.ibb.co/F0NxYqJ/inception-big.webp",
